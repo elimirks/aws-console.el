@@ -1,0 +1,5 @@
+* aws-console.el
+
+UNOFFICIAL AWS Console Plugin for Emacs.
+
+Documentation coming soon. Maybe. Probably not soon to be honest.
